@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC 2.0 ❤️</b></h1>
+<h1 align="center"><b>❤️  NEON MUSIC 2.0 ❤️</b></h1>
 
 <h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
@@ -13,7 +13,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Alexa,  🤭 That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using NEON,  🤭 That is the greatest pleasure we have !
 
 ### Asad– History
 
