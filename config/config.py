@@ -26,9 +26,9 @@ SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "乛𝘼𝙇𝙀𝙓𝘼🕊️⃝🦋⁪⁬𝙈𝙐𝙎𝙄𝘾")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "乛NEON🕊️⃝🦋⁪⁬𝙈𝙐𝙎𝙄𝘾")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "6174058850 5745099463").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "5292020082 5292020082").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
@@ -44,8 +44,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Alexa_BotUpdates")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Alexa_Help")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/thesukoonlyric")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/thesukoonluric")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -68,13 +68,13 @@ GITHUB_REPO = getenv("GITHUB_REPO", None)
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
 
-VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "3"))
+VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "3000"))
 
-SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "30"))
+SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
 
-PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "25"))
+PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", "2500"))
 
-CLEANMODE_DELETE_MINS = int(getenv("CLEANMODE_MINS", "5"))
+CLEANMODE_DELETE_MINS = int(getenv("CLEANMODE_MINS", "5000"))
 
 TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", "104857600"))
 
