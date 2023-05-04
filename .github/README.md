@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️  NEON MUSIC 2.0 ❤️</b></h1>
 
-<h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">NEON A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/f6064bc90cc76e59015b2.jpg" width="400"></a></p>
 
